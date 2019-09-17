@@ -1,0 +1,32 @@
+.order {
+  margin-bottom: 0px;
+  border-bottom: 0px;
+}
+
+.order thead th {
+  font-size: 80%;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+}
+
+.order tr td {
+  padding-top: 0px;
+  border-top: 0px;
+}
+
+.orderDetails {
+  font-size: 80%;
+  margin-bottom: 30px;
+}
+
+.orderDetails td {
+  padding: 5px;
+}
+
+.orderDetails th {
+  padding: 5px;
+}
+
+.badge {
+  font-size: 88%;
+}
